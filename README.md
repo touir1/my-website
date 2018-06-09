@@ -1,2 +1,2 @@
-# my-resume-generator
-a website containing my resume generator implemented in Django
+# my-website
+a website containing informations about myself implemented in Django
